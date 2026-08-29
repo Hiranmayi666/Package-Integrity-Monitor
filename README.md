@@ -46,7 +46,7 @@ For fall detection, the system first detects a low-acceleration state indicating
 
 ### In Transit
 
-![In Transit Dashboard](./images/TRANSIT.png)
+![In Transit Dashboard](./images/IN_TRANSIT.png)
 
 ### Impact Detection
 
