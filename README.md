@@ -42,23 +42,23 @@ For fall detection, the system first detects a low-acceleration state indicating
 
 ### Stable State
 
-![Stable Dashboard](images/stable.png)
+![Stable Dashboard](images/STABLE.PNG)
 
 ### In Transit
 
-![In Transit Dashboard](images/transit.png)
+![In Transit Dashboard](images/TRANSIT.PNG)
 
 ### Impact Detection
 
-![Impact Detection](images/impact.png)
+![Impact Detection](images/IMPACT.PNG)
 
 ### Fall Detection
 
-![Fall Detection](images/fall.png)
+![Fall Detection](images/FALL.PNG)
 
 ## Hardware Setup
 
-![Hardware Setup](images/hardware.jpg)
+![Hardware Setup](images/HARDWARE.jpeg)
 
 ## Technology Used
 
